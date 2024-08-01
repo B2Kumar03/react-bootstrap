@@ -1,0 +1,4 @@
+/* Add this to your CSS file or inside a <style> block in your HTML */
+.canvas-container {
+  cursor: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABHNCSVQICAgIfAhkiAAAAN1JREFUOI2dkk0rRFEYhp8zybM3m51de60h9BRxIBBjQkTgbYWtm0OwtpC4hl0mXCSmIlpSIlKSZgYtBJBScUgEH+3XuDmfO6PBw7M7M7zq7v/L5n3PO/XsBQlf+IYTnGVSmqGmOlccIQ/yITfCkxSwLoDUz2BBckRFA/qR8KmrRJtiZP2GAxHwPnAeoD5/qGvgGpAFLOmW8ifIMF4lJJnAHzFu4BvgCcP1MA5nGy3x3irG5jm+n2iWcPeeedIKX46t8y6O6IoExs8+JG5vbfUu1un7m5pqYJe4m/zPzQH5fu/jrO/tajRdzIdStWYqn5xeazN4hm9B3En1KX5T7qZG3gtPR32TxFDx34zNNSPKTwM2hBaDsH4we9PqHPC0R4HDwBiwAAAABJRU5ErkJggg==') 4 12, auto;
+}
